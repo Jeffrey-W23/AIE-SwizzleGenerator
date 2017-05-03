@@ -24,4 +24,6 @@ void main()
 			}
 		}
 	}
+
+	system("pause");
 }
